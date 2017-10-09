@@ -1,0 +1,11 @@
+bootstrap.memory_lock: false
+cluster.name: gz-cluster
+http.port: 9100
+node.data: true
+node.ingest: true
+node.master: true
+node.max_local_storage_nodes: 1
+node.name: DESKTOP-LM1N5UV
+path.data: D:\elasticsearch\data
+path.logs: D:\elasticsearch\logs
+transport.tcp.port: 9400
